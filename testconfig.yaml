@@ -1,7 +1,7 @@
 models:
   DS100:
-    username: "mvleest+dstesting@een.com"
-    password: "Eagle_1234"
+    username: ""
+    password: ""
   DS200:
     username: ""
     password: ""
